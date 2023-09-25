@@ -14,8 +14,12 @@ body {
     p{
       text-align: center;
       word-spacing: 0; 
-      margin: 2 0;
+      margin: 2 2;
       color: #800000;
       font-family: Verdana;
       font-size: 3 ;
+    }
+    strong{
+      font-weight: bold;
+      font-size: 5;
     }

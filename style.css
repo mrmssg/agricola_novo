@@ -3,10 +3,19 @@ body {
     background-color: "#FFFFFF";
     font-size: medium;
     }
+    h1{
+        text-align: center;
+        word-spacing: 0; 
+        margin: 10 0;
+        color: #800000;
+        font-family: Verdana;
+        font-size: 4 ;  
+    }
     p{
       text-align: center;
       word-spacing: 0; 
-      margin: 0 0;
+      margin: 2 0;
       color: #800000;
       font-family: Verdana;
+      font-size: 3 ;
     }

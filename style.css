@@ -1,4 +1,9 @@
 body {
-    background-image: "exptextb.jpg" 
-    color: "#FFFFFF";
-        }
+    background-image: url("exptextb.jpg"); 
+    background-color: "#FFFFFF";
+    text:"#000000" ;
+    font-size: medium;
+    link:"#993300" ;
+    vlink:"#666600" ;
+    alink:"#CC3300";
+     }

@@ -1,0 +1,51 @@
+body {
+    background-image: url("exptextb.jpg"); 
+    background-color: #FFFFFF;
+    }
+    h1{
+        text-align: center;
+        word-spacing: 0; 
+        margin: 10 0;
+        color: #800000;
+        font-family: Verdana;
+        font-size: 4 ;  
+    }
+    p{
+      text-align: center;
+      word-spacing: 0; 
+      margin: 2 2;
+      color: #800000;
+      font-family: Verdana;
+      font-size: 3 ;
+    }
+    strong{
+      font-weight: bold;
+      font-size: 5;
+    }
+      * {
+        margin: 0px;
+        padding: 0px;
+        border: 0px;
+    }
+    ul {
+        margin: 20px 0 0 20px;
+        list-style: none;
+    }
+    a {
+        position: relative; /* Para que a imagem não saia fora do link */
+        display: inline;
+        width: 100px;
+        padding: 5px 0;
+               }
+    a:hover {
+        color:#721b1bc2 ;
+        }
+    a span {
+        display: none; /* Aqui você define que todo SPAN que estiver dentro de um A estará invisível */
+    }
+    a:hover span {
+        display: inline; /* Tranforma o SPAN em um elemento do tipo bloco */
+        position: absolute; /* Para você poder posicionar a vontade, sem quebrar o layour em volta */
+        top: 0px; /* Para ficar na mesma altura do link */
+        left: 100%; /* Empurra a imagem para fora do link, ficando a lado do mesmo */
+        }

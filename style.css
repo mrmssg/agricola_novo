@@ -22,28 +22,3 @@ body {
       font-weight: bold;
       font-size: 5;
     }
-        
-    .tabela{
-      margin: 0 0;
-      color: #800000;
-      font-family: Verdana;
-      font-size: 4 ;  
-    }
-  .mostrar {
-      position: relative;
-      display: inline;
-      width: 40px;
-      padding: 5px 0;
-      border:1px #999999 solid;
-      text-decoration: none;
-        }
-  .mostrar span {
-    display: none; /* Aqui você define que todo SPAN que estiver dentro de um A estará invisível */
-}
-.mostrar:hover span {
-  display: inline;
-  position: absolute; /* Para você poder posicionar a vontade, sem quebrar o layour em volta */
-  top: 0px; /* Para ficar na mesma altura do link */
-  left: 100%; /* Empurra a imagem para fora do link, ficando a lado do mesmo */
-  border: 1px #CCCCCC solid; /* Estilo extra, lembrando que você pode colocar qualquer estilo nesse elemento */
-}

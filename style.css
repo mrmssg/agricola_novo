@@ -23,3 +23,11 @@ body {
       font-weight: bold;
       font-size: 5;
     }
+        
+    .tabela{
+      margin: 0 0;
+      color: #800000;
+      font-family: Verdana;
+      font-size: 4 ;  
+    }
+   

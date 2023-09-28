@@ -22,11 +22,6 @@ body {
       font-weight: bold;
       font-size: 5;
     }
-      * {
-        margin: 0px;
-        padding: 0px;
-        border: 0px;
-    }
     ul {
         margin: 20px 0 0 20px;
         list-style: none;

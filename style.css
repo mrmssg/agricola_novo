@@ -1,34 +1,50 @@
 body {
-    background-image: url("exptextb.jpg"); 
-    background-color: #FFFFFF;
-    margin: 10, 10;
-    padding: 10, 10, 10, 10;
-     }
-    h1{
-        text-align: center;
-        word-spacing: 0; 
-        margin: 10 0;
-        color: #800000;
-        font-family: Verdana;
-        font-size: 4 ;  
-    }
-    h2{
+  background-image: url("exptextb.jpg"); 
+  background-color: #FFFFFF;
+  margin: 10, 10;
+  padding: 10, 10, 10, 10;
+   }
+  h1{
       text-align: center;
       word-spacing: 0; 
       margin: 10 0;
       color: #800000;
       font-family: Verdana;
-      font-size: 3 ; 
-    }
-    p{
-      text-align: center;
-      word-spacing: 0; 
-      margin: 10 10;
-      color: #800000;
-      font-family: Verdana;
-      font-size: 3 ;
-    }
-    strong{
-      font-weight: bold;
-      font-size: 5;
-    }
+      font-size: 4 ;  
+  }
+  h2{
+    text-align: center;
+    word-spacing: 0; 
+    margin: 10 0;
+    color: #800000;
+    font-family: Verdana;
+    font-size: 3 ; 
+  }
+  p{
+    text-align: center;
+    word-spacing: 0; 
+    margin: 10 10;
+    color: #800000;
+    font-family: Verdana;
+    font-size: 3 ;
+  }
+  strong{
+    font-weight: bold;
+    font-size: 5;
+  }
+  p2{
+    text-align: justify;
+    word-spacing: 0; 
+    color: #800000;
+    font-family: Verdana;
+    font-size: 3 ;
+    border: 0 100;
+  }
+  tbody {
+    text-align: left;
+    font-weight: bold;
+    margin: 10 10;
+    color: #800000;
+    font-family: Verdana;
+    font-size: 3 ;
+  }  

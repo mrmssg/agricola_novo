@@ -63,8 +63,21 @@ body {
   .justifica{
     margin: 0 20%;
     text-align: justify;
-    font-family: Verdana;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+  }
+  ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    margin-right: 10%;
+    margin-left: 30%;
+    font-family: verdana;
+    font-size: 3;
     font-weight: bold;
     color: #800000;
-    font-size: 3;
-  }
+}
+.oval{
+  border-radius: 5%;
+  border:3px solid #800000;
+}

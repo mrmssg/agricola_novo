@@ -1,4 +1,6 @@
 # agricola_novo
+# CEEP Arlindo Ribeiro
+# Colegio Agricola Guarapuava
 Este projeto tem por objetivo expor o histórico do CEEP Arlindo Ribeiro criado na ocasião em que a escola completou seus 50 Anos.
 
 Esse projeto não tem fins comerciais.
